@@ -1,0 +1,36 @@
+name: movie_db
+description: A new Flutter project.
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mobx: ^2.0.0
+  flutter_mobx: ^2.0.0
+  rxdart: ^0.27.0
+  json_annotation: ^4.0.1
+  dio: ^5.7.0
+  json_serializable: ^6.8.0
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  sembast: ^3.7.2
+  path_provider: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.9 
+  mobx_codegen: ^2.0.0
+  intl_translation: ^0.20.0
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  generate: true

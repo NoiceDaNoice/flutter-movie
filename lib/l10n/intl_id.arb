@@ -1,0 +1,21 @@
+{
+  "@@locale": "id",
+  "hello": "Halo",
+  "welcome": "Selamat datang",
+  "bookmark": "Tandai",
+  "setting": "Pengaturan",
+  "movie": "Film",
+  "popular_movies": "Film Populer",
+  "search_movie": "Cari Film",
+  "filter_by_genre": "Filter Berdasarkan Genre",
+  "action": "Aksi",
+  "comedy": "Komedi",
+  "sort_by": "Urutkan Berdasarkan",
+  "title": "Judul",
+  "popularity": "Popularitas",
+  "dark_mode": "Mode Gelap",
+  "light_mode": "Mode Terang",
+  "switch_to": "Beralih ke",
+  "english": "Bahasa Inggris",
+  "indonesian": "Bahasa Indonesia"
+}

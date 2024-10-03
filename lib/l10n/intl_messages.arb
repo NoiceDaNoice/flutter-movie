@@ -1,0 +1,15 @@
+{
+  "@@last_modified": "2024-10-03T20:00:17.775674",
+  "hello": "Hello",
+  "@hello": {
+    "description": "Hello message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message",
+    "type": "text",
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "hello": "Hello",
+  "welcome": "Welcome",
+  "bookmark": "Bookmark",
+  "setting": "Setting",
+  "movie": "Movie",
+  "popular_movies": "Popular Movies",
+  "search_movie": "Search Movies",
+  "filter_by_genre": "Filter By Genre",
+  "action": "Action",
+  "comedy": "Comedy",
+  "sort_by": "Sort By",
+  "title": "Title",
+  "popularity": "Popularity",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode",
+  "switch_to": "Switch to",
+  "english": "English",
+  "indonesian": "Indonesian"
+}
